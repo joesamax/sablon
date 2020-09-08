@@ -5,9 +5,9 @@
         versionCode = "10"
         version     = "1.0.0.0" >
 
-	<name>BelHairs</name>
+	<name>SAB BTP</name>
 
-	<description></description>
+	<description>Votre carte virtuelle professionnelle par Alizés Développement</description>
 
 	<author href="" email=""></author>
 
@@ -33,7 +33,7 @@
 	<plugin name="cordova-plugin-statusbar" source="npm" />
 	<plugin name="cordova-build-architecture" spec="https://github.com/MBuchalik/cordova-build-architecture.git#v1.0.4" source="git" />
     
-    <content src="https://belhairs.fr/bapp/" />
+    <content src="https://alizescard.fr/sablonjudesartisanat" />
 
 	<!-- Whitelist policy  -->
 	<access origin="*" />
